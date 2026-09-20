@@ -7,8 +7,8 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "8621993127:AAEIm5nF_-nm-9w0-C3n3Ud7Jp02wMIXb_s"      # Токен от @BotFather
-CHAT_ID = 819114349            # Твой числовой ID из @userinfobot
+BOT_TOKEN = "8********7:AAEIm5nF_-nm-9w0-C3n3Ud7Jp02wMIXb_s"      # Токен от @BotFather
+CHAT_ID = 8*******9            # Твой числовой ID из @userinfobot
 LATITUDE = 53.1959                # Координаты Самары (широта)
 LONGITUDE = 50.1004               # Координаты Самары (долгота)
 SEND_TIME_HOUR = 8                # Час отправки (по местному времени Самары)
